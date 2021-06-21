@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(229, 231, 241);
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+input{
+
+}
+
+.contentBox {
+    width: 500px;
+    margin: auto;
+    background-color: rgb(233, 233, 224);
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    padding: 3px;
+    background-color: rgb(126, 150, 231);
+    color: #fff;
+    border-radius: 10px 10px 0 0 ;
+}
+
+.listBox {
+    height: 500px;
+    overflow-y: auto;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 32px;
+}
+
+.list__delete {
+    font-size: 20px;
+    color: rgb(151, 154, 163);
+    transition: transform 300ms ease-in;
+}
+
+.list__complete{
+    font-size: 20px;
+    color: rgb(151, 154, 163);
+    transition: transform 300ms ease-in;
+
+}
+
+.list__delete:hover {
+    transform: scale(1.2);
+    color: rgb(226, 176, 167);
+    ;
+}
+
+.list__complete:hover {
+    transform: scale(1.2);
+    color: rgb(141, 211, 238);
+    ;
+}
+
+.list__divider {
+    width: 90%;
+    height: 1px;
+    background-color: rgb(184, 184, 187);
+    margin: auto;
+}
+
+.footer{
+    height: 60px;
+    background-color: rgb(126, 150, 231);
+    border-radius: 0 0 10px 10px;
+    padding: 10px 0;
+}
+
+.footer__input{
+    width: 85%;
+    height: 40px;
+    border:none;
+    outline: none;
+    font-size: 24px;
+    padding: 0 16px;
+}
+
+.footer__addBtn{
+    height: 40px;
+    font-size: 20px;
+    padding: 0 15px;
+    color: #fff;
+    transition: all 300ms ease-in;
+}
+
+.footer__addBtn:hover{
+    color: rgb(234, 243, 106);
+}
+
