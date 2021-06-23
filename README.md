@@ -2,7 +2,7 @@
  
 #### Link: https://hk1070.github.io/ToDoList/
 
-#### HTML, CSS, JavaScript 로 ToDoList를 만들었습니다.
+#### HTML, CSS, JavaScript 로 To Do List를 만들었습니다.
 
 <img width="40%" src="https://user-images.githubusercontent.com/85146819/123044328-76b6a000-d434-11eb-92ad-ad32f4433b2f.png">
 
