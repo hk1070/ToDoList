@@ -13,7 +13,7 @@
 - Enter Key와 + 버튼으로 내용을 입력할 수 있습니다.  
 
 
-<img width="40%" src="https://user-images.githubusercontent.com/85146819/123044435-99e14f80-d434-11eb-927a-7d7284b958f5.gif">  
+<img width="40%" src="https://user-images.githubusercontent.com/85146819/123044867-373c8380-d435-11eb-9f79-50c328392333.gif">  
 
 
 - √ 버튼을 클릭하여 완료한 일을 구분 할 수 있습니다.  
